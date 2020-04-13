@@ -1,0 +1,28 @@
+.container {
+  width: 70%;
+  margin: 2rem auto;
+}
+
+.blog {
+  margin-bottom: 2rem;
+}
+
+.blog-title {
+  font-size: 4.5rem;
+  margin-bottom: 2rem;
+}
+
+.blog-body {
+  font-size: 2.4rem;
+}
+
+.blog-date,
+.blog-author {
+  font-style: italic;
+  font-size: 2rem;
+}
+
+.blog a {
+  color: #0082c3;
+  font-size: 1.8rem;
+}
